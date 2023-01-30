@@ -1,7 +1,7 @@
 # 👻 SC Tools
 Tools for analyzing your Snapchat data in your browser
 
-[![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg)](https://shields.io/)
+[![Version](https://img.shields.io/badge/Version-1.0.2-blue.svg)](https://shields.io/)
 
 ## Tools
 - **Friends**: Use data intercepted from a Snapchat client to view details about the users you're friends with
