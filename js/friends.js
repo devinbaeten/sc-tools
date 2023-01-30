@@ -6,6 +6,7 @@
 //
 
 var table = $('#friendList').DataTable({
+	"lengthMenu": [ 10, 25, 50, 75, 100, 250, 500, 750, 1000 ],
 	paging: true,
 	order: [[5, 'desc']],
 	columns: [
